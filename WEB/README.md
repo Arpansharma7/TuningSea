@@ -2,9 +2,7 @@
 
 A complete interactive front-end prototype for TuningSea, styled with the monochrome “Chrome Mission” design system.
 
-## Run
-
-Open `index.html` directly in a modern browser. No build step or dependency installation is required.
+Desktop application development and build instructions are contained in `DESKTOP_APPLICATION`.
 
 ## Included product areas
 
